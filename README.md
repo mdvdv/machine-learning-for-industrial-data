@@ -1,4 +1,4 @@
-h1>Machine Learning for Industrial Data Course | ITMO University</h1>
+<h1>Machine Learning for Industrial Data Course | ITMO University</h1>
 
 Author: <a href='https://github.com/mdvdv'>Anatoly Medvedev</a>
 
